@@ -17,4 +17,8 @@ public class TestAuthor {
      */
     private String name = "小百";
     
+    public void testUpdate(){
+        System.out.println(id + name);
+    }
+    
 }
